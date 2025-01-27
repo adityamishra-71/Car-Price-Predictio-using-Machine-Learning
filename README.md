@@ -1,4 +1,4 @@
-# Car-Price-Predictio-using-Machine-Learning
+# Car-Price-Prediction-using-Machine-Learning
 ML problem
 A Car company has provided user-inputted text descriptions of its products, including details like product category name, brand name, item condition and other required data or feature of a car. Using this data, we have to come up with a model that predicts the price of a car listed on car company as accurately as possible. This looks like a standard regression problem.
 
